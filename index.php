@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ラグビーアンケートフォーム</title>
 </head>
+<body>
  <!-- タイトル -->
  <h1>ラグビー🏉アンケート</h1>
 
@@ -30,9 +31,6 @@
 
   <button type="submit">送信</button>
 
-</form>
-
-<body>
-    
+</form>    
 </body>
 </html>
